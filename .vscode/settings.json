@@ -1,0 +1,6 @@
+{
+    "solidity.compileUsingLocalVersion": "d:\\USER\\Desktop\\JSeeking\\PLMeta\\soljson-v0.8.0+commit.c7dfd78e.js",
+    "solidity.packageDefaultDependenciesDirectory": "node_modules",
+    "solidity.compileUsingRemoteVersion": "v0.8.1+commit.df193b15",
+    "solidity.defaultCompiler": "remote"
+}
